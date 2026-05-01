@@ -34,3 +34,10 @@ This is a modern, responsive web application for an Indian Railway Dashboard, bu
 - `src/components`: Reusable UI components (TrainCard, Navbar, LiveStatusBadge, etc.).
 - `src/store`: Redux store configuration and slices.
 - `src/services`: API services and mock data.
+
+
+
+
+## Dashboard:
+
+<img width="2366" height="5242" alt="railroyal netlify app_" src="https://github.com/user-attachments/assets/dd6996c0-bcad-4a90-a648-7409c1929820" />
